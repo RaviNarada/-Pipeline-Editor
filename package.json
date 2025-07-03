@@ -1,0 +1,38 @@
+{
+  "name": "pipeline-editor",
+  "version": "1.0.0",
+  "description": "A React-based Pipeline Editor (DAG Builder) for Nexstem Frontend Intern Assignment",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "react",
+    "vite",
+    "reactflow",
+    "dag",
+    "pipeline-editor"
+  ],
+  "author": "Your Name (Optional)",
+  "license": "ISC",
+  "dependencies": {
+    "@dagrejs/dagre": "^1.1.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "reactflow": "^11.11.3",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.2",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.34.2",
+    "eslint-plugin-react-hooks": "^4.6.2",
+    "eslint-plugin-react-refresh": "^0.4.7",
+    "vite": "^5.3.1"
+  }
+}

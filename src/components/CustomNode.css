@@ -1,0 +1,13 @@
+.custom-node {
+  border: 1px solid #777;
+  padding: 10px;
+  border-radius: 5px;
+  background: #fff;
+  font-size: 12px;
+  text-align: center;
+  min-width: 100px;
+  min-height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

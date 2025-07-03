@@ -18,6 +18,9 @@
   ],
   "author": "Your Name (Optional)",
   "license": "ISC",
+    "engines": {          
+    "node": "20.x"
+  },
   "dependencies": {
     "@dagrejs/dagre": "^1.1.2",
     "react": "^18.3.1",
